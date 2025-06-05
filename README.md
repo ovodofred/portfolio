@@ -42,14 +42,23 @@ Modern Styling — Clean, minimal UI with custom styling and grid layout.
 
 
 📸 Screenshots
+
 Home
+
 ![image](https://github.com/user-attachments/assets/c2d67439-15f4-41b8-abd2-26f5b28b80fb)
+
 Portfolio
+
 ![image](https://github.com/user-attachments/assets/2a077e23-2cf5-451a-b23e-7ba6c0f141bd)
-Skills (Mobile View)
-![image](https://github.com/user-attachments/assets/77dded59-997e-4ad5-899a-94970c616571)
+
 About me
+
 ![image](https://github.com/user-attachments/assets/e44c62ca-81b4-429b-9bf7-5771c0f61513)
+
+Skills (Mobile View)
+
+![image](https://github.com/user-attachments/assets/77dded59-997e-4ad5-899a-94970c616571)
+
 
 
 📦 Deployment
